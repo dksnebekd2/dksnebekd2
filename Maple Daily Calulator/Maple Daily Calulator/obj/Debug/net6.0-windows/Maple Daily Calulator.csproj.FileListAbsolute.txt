@@ -1,0 +1,21 @@
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\Maple Daily Calulator.exe
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\Maple Daily Calulator.deps.json
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\Maple Daily Calulator.runtimeconfig.json
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\Maple Daily Calulator.dll
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\Maple Daily Calulator.pdb
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.csproj.AssemblyReference.cache
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple_Daily_Calulator.Form1.resources
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple_Daily_Calulator.Properties.Resources.resources
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.csproj.GenerateResource.cache
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.AssemblyInfoInputs.cache
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.AssemblyInfo.cs
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.csproj.CoreCompileInputs.cache
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.csproj.CopyComplete
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.dll
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\refint\Maple Daily Calulator.dll
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.pdb
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\Maple Daily Calulator.genruntimeconfig.cache
+C:\Users\아무게\Desktop\거위\2022년 1학기\비주얼프로그래밍\프로젝트\Maple Daily Calulator\Maple Daily Calulator\obj\Debug\net6.0-windows\ref\Maple Daily Calulator.dll

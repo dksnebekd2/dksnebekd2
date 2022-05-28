@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxzOLoKwQ9Xgv5kQGM/l6ZXbnOUk7clhsJnxII+nOc1lg2NKMSOM5qsersTCldMBkjxt11BbiovSCjyr3Jk8eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\아무게\\Desktop\\거위\\2022년 1학기\\비주얼프로그래밍\\프로젝트\\Maple Daily Calulator\\Maple Daily Calulator\\Maple Daily Calulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\아무게\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\아무게\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
